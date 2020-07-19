@@ -19,3 +19,7 @@ alias path='echo $PATH | tr -s ":" "\n"'
 if [[ -f ~/.aliases.local ]]; then
   source ~/.aliases.local
 fi
+
+# Personal development
+alias lisasy="cd Dropbox/Development/lisa_sy_gatsby/"
+alias lisasy_vim="cd Dropbox/Development/lisa_sy_gatsby/"
